@@ -1,0 +1,20 @@
+{
+    "description": "Project Description",
+
+    "domain": "is-not-a.dev",
+    "subdomain": "akashgaming",
+
+    "owner": {
+        "repo": "https://github.com/username/repo",
+        "email": "chauhaakash876@gmail.com"
+    },
+
+    "record": {
+        "A": ["1.1.1.1", "1.0.0.1"],
+        "AAAA": ["::1", "::2"],
+        "CNAME": "ghs.google.com",
+        "MX": ["43r7vcfmgzo2", "gv-7dgl2jsfjouamo.dv.googlehosted.com"],
+        "TXT": ["example_verification=1234567890"]
+    },
+
+    "proxied": false
